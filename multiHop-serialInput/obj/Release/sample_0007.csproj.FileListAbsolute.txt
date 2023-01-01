@@ -1,0 +1,8 @@
+C:\Users\SatoshiNakaniida\Documents\Arduino\tokken\App\sample\sample_0007\bin\Release\sample_0007.exe
+C:\Users\SatoshiNakaniida\Documents\Arduino\tokken\App\sample\sample_0007\bin\Release\sample_0007.pdb
+C:\Users\SatoshiNakaniida\Documents\Arduino\tokken\App\sample\sample_0007\obj\Release\sample_0007.csprojResolveAssemblyReference.cache
+C:\Users\SatoshiNakaniida\Documents\Arduino\tokken\App\sample\sample_0007\obj\Release\sample_0007.Form1.resources
+C:\Users\SatoshiNakaniida\Documents\Arduino\tokken\App\sample\sample_0007\obj\Release\sample_0007.Properties.Resources.resources
+C:\Users\SatoshiNakaniida\Documents\Arduino\tokken\App\sample\sample_0007\obj\Release\sample_0007.csproj.GenerateResource.Cache
+C:\Users\SatoshiNakaniida\Documents\Arduino\tokken\App\sample\sample_0007\obj\Release\sample_0007.exe
+C:\Users\SatoshiNakaniida\Documents\Arduino\tokken\App\sample\sample_0007\obj\Release\sample_0007.pdb
